@@ -14,6 +14,7 @@ function nextUser() {
 	.then(updateProfile)
 	.catch(function(err) {
 		console.log(err);
+	  	console.log('Something went wrong!')
 	})
 }
 
