@@ -1,3 +1,6 @@
+// Randon User Gererator 
+// Author: Eralp
+// Date: 01/05/18
 
 var url = 'https://randomuser.me/api/';
 var avatar = document.getElementById('avatar');
