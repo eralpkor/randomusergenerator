@@ -1,4 +1,4 @@
-// Randon User Gererator 
+// Random User Gererator 
 // Author: Eralp
 // Date: 01/05/18
 
